@@ -1,2 +1,3 @@
-# javascript-learning
-Learning JavaScript basics with simple examples and exercises
+# JavaScript Learning
+
+This repository contains simple JavaScript examples created while learning the basics of the language.
